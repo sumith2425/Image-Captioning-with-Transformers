@@ -5,7 +5,7 @@
 **Team Members:**
 *   G. Sai Shasank - shasankgedda6@gmail.com - 22CS10025
 *   M. Nikil Kumar - maratinikhilkumar@gmail.com - 22CS10042
-*   S. Sumit Chandra - sumithsatkuri123@gmail.com - 22CS10067
+*   S. Sumith Chandra - sumithsatkuri123@gmail.com - 22CS10067
 
 ---
 
